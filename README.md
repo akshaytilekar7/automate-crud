@@ -23,8 +23,7 @@ This framework will automate code for insert/update/delete/read and various othe
  
  About BaseEntity :
  
- -  BaseEntity has following Methoods (Provide your class like Customer/Employee )
- 
+ -  BaseEntity has following Methoods 
      -  public BaseEntity(string connectionString)
      -  public int InsertEntity(Entity entity)
      -  public int UpdateEntity(Entity entity)
