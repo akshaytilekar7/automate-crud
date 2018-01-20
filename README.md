@@ -10,18 +10,20 @@ This framework will automate code for insert/update/delete/read and various othe
 - create object of my BaseEntity and pass your entity/model 
 - that BaseEntity will provide various method for different database operations
 - Project has one Console application (name as "Test") which will show how to use my DataBase.Core 
+
+# How To Use
 - just change connection string in ManageConnection.cs class
-- and create Model/Entity class as Student class (present in Model/Student.cs)
+- and create Model/Entity class (Sample class is in console application (Named as "Test") :  Model/Student.cs)
     - Provide attributes on property that used in that class 
         - [TableName("UrDataBaseTableName")]
         - [PrimaryKey]
         - [ColumnName("ColumnName")]
         - [IgnoreColumn]
  
- Use BaseEntity as below :
+ # Use BaseEntity as below :
  -   BaseEntity<Student> baseEntity = new BaseEntity<Student>(ManageConnection.ConnectionString);
  
- About BaseEntity :
+ # About BaseEntity :
  
  -  BaseEntity has following Methoods 
      -  public BaseEntity(string connectionString)
