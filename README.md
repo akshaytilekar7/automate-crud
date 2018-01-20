@@ -21,7 +21,7 @@ This framework will automate code for insert/update/delete/read and various othe
         - [IgnoreColumn]
  
  # Use BaseEntity as below :
- -   BaseEntity<Student> baseEntity = new BaseEntity<Student>(ManageConnection.ConnectionString);
+ -  BaseEntity<Student> baseEntity = new BaseEntity<Student>(ManageConnection.ConnectionString); 
  
  
  # BaseEntity CRUD methods
