@@ -1,0 +1,61 @@
+c:\users\akshay.tilekar\documents\visual studio 2015\Projects\Test\bin\Debug\Test.exe.config
+c:\users\akshay.tilekar\documents\visual studio 2015\Projects\Test\bin\Debug\ApplicationInsights.config
+c:\users\akshay.tilekar\documents\visual studio 2015\Projects\Test\bin\Debug\roslyn\csc.exe
+c:\users\akshay.tilekar\documents\visual studio 2015\Projects\Test\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\akshay.tilekar\documents\visual studio 2015\Projects\Test\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\akshay.tilekar\documents\visual studio 2015\Projects\Test\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\akshay.tilekar\documents\visual studio 2015\Projects\Test\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\akshay.tilekar\documents\visual studio 2015\Projects\Test\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+c:\users\akshay.tilekar\documents\visual studio 2015\Projects\Test\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\akshay.tilekar\documents\visual studio 2015\Projects\Test\bin\Debug\roslyn\System.Collections.Immutable.dll
+c:\users\akshay.tilekar\documents\visual studio 2015\Projects\Test\bin\Debug\roslyn\System.Reflection.Metadata.dll
+c:\users\akshay.tilekar\documents\visual studio 2015\Projects\Test\bin\Debug\roslyn\vbc.exe
+c:\users\akshay.tilekar\documents\visual studio 2015\Projects\Test\bin\Debug\roslyn\VBCSCompiler.exe
+c:\users\akshay.tilekar\documents\visual studio 2015\Projects\Test\bin\Debug\roslyn\VBCSCompiler.exe.config
+c:\users\akshay.tilekar\documents\visual studio 2015\Projects\Test\bin\Debug\Test.exe
+c:\users\akshay.tilekar\documents\visual studio 2015\Projects\Test\bin\Debug\Test.pdb
+c:\users\akshay.tilekar\documents\visual studio 2015\Projects\Test\bin\Debug\DBService.dll
+c:\users\akshay.tilekar\documents\visual studio 2015\Projects\Test\bin\Debug\Framework.dll
+c:\users\akshay.tilekar\documents\visual studio 2015\Projects\Test\bin\Debug\System.Web.Mvc.dll
+c:\users\akshay.tilekar\documents\visual studio 2015\Projects\Test\bin\Debug\System.Web.Razor.dll
+c:\users\akshay.tilekar\documents\visual studio 2015\Projects\Test\bin\Debug\System.Web.WebPages.Razor.dll
+c:\users\akshay.tilekar\documents\visual studio 2015\Projects\Test\bin\Debug\System.Web.WebPages.dll
+c:\users\akshay.tilekar\documents\visual studio 2015\Projects\Test\bin\Debug\Microsoft.Web.Infrastructure.dll
+c:\users\akshay.tilekar\documents\visual studio 2015\Projects\Test\bin\Debug\System.Web.WebPages.Deployment.dll
+c:\users\akshay.tilekar\documents\visual studio 2015\Projects\Test\bin\Debug\DBService.pdb
+c:\users\akshay.tilekar\documents\visual studio 2015\Projects\Test\bin\Debug\Framework.pdb
+c:\users\akshay.tilekar\documents\visual studio 2015\Projects\Test\bin\Debug\System.Web.Mvc.xml
+c:\users\akshay.tilekar\documents\visual studio 2015\Projects\Test\bin\Debug\System.Web.Razor.xml
+c:\users\akshay.tilekar\documents\visual studio 2015\Projects\Test\bin\Debug\System.Web.WebPages.Razor.xml
+c:\users\akshay.tilekar\documents\visual studio 2015\Projects\Test\bin\Debug\System.Web.WebPages.xml
+c:\users\akshay.tilekar\documents\visual studio 2015\Projects\Test\bin\Debug\System.Web.WebPages.Deployment.xml
+c:\users\akshay.tilekar\documents\visual studio 2015\Projects\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+c:\users\akshay.tilekar\documents\visual studio 2015\Projects\Test\obj\Debug\Test.exe
+c:\users\akshay.tilekar\documents\visual studio 2015\Projects\Test\obj\Debug\Test.pdb
+\\tsclient\C\Users\akshay.tilekar\Demo Project\OwnFramework\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Akshay.Tilekar\DemoProject\A_FW\Test\bin\Debug\Test.exe.config
+C:\Users\Akshay.Tilekar\DemoProject\A_FW\Test\bin\Debug\Test.exe
+C:\Users\Akshay.Tilekar\DemoProject\A_FW\Test\bin\Debug\Test.pdb
+C:\Users\Akshay.Tilekar\DemoProject\A_FW\Test\bin\Debug\Database.Core.dll
+C:\Users\Akshay.Tilekar\DemoProject\A_FW\Test\bin\Debug\Database.Core.pdb
+C:\Users\Akshay.Tilekar\DemoProject\A_FW\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Akshay.Tilekar\DemoProject\A_FW\Test\obj\Debug\Test.exe
+C:\Users\Akshay.Tilekar\DemoProject\A_FW\Test\obj\Debug\Test.pdb
+E:\Study\Practise\AKSAHY_FRAMEWORK_OWN_14_DEC_2017\Test\bin\Debug\Test.exe.config
+E:\Study\Practise\AKSAHY_FRAMEWORK_OWN_14_DEC_2017\Test\bin\Debug\Test.exe
+E:\Study\Practise\AKSAHY_FRAMEWORK_OWN_14_DEC_2017\Test\bin\Debug\Test.pdb
+E:\Study\Practise\AKSAHY_FRAMEWORK_OWN_14_DEC_2017\Test\bin\Debug\Database.Core.dll
+E:\Study\Practise\AKSAHY_FRAMEWORK_OWN_14_DEC_2017\Test\bin\Debug\Database.Core.pdb
+E:\Study\Practise\AKSAHY_FRAMEWORK_OWN_14_DEC_2017\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+E:\Study\Practise\AKSAHY_FRAMEWORK_OWN_14_DEC_2017\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+E:\Study\Practise\AKSAHY_FRAMEWORK_OWN_14_DEC_2017\Test\obj\Debug\Test.exe
+E:\Study\Practise\AKSAHY_FRAMEWORK_OWN_14_DEC_2017\Test\obj\Debug\Test.pdb
+E:\Study\Practise\Framework\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+E:\Study\Practise\Framework\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+E:\Study\Practise\Framework\Test\obj\Debug\Test.exe
+E:\Study\Practise\Framework\Test\obj\Debug\Test.pdb
+E:\Study\Practise\Framework\Test\bin\Debug\Test.exe.config
+E:\Study\Practise\Framework\Test\bin\Debug\Test.exe
+E:\Study\Practise\Framework\Test\bin\Debug\Test.pdb
+E:\Study\Practise\Framework\Test\bin\Debug\Database.Core.dll
+E:\Study\Practise\Framework\Test\bin\Debug\Database.Core.pdb

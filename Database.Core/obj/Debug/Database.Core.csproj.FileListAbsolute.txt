@@ -1,0 +1,17 @@
+C:\Users\Akshay.Tilekar\DemoProject\A_FW\Database.Core\bin\Debug\Database.Core.dll
+C:\Users\Akshay.Tilekar\DemoProject\A_FW\Database.Core\bin\Debug\Database.Core.pdb
+C:\Users\Akshay.Tilekar\DemoProject\A_FW\Database.Core\obj\Debug\Database.Core.dll
+C:\Users\Akshay.Tilekar\DemoProject\A_FW\Database.Core\obj\Debug\Database.Core.pdb
+C:\Users\Akshay.Tilekar\DemoProject\A_FW\Database.Core\obj\Debug\Database.Core.csprojResolveAssemblyReference.cache
+E:\Study\Practise\AKSAHY_FRAMEWORK_OWN_14_DEC_2017\Database.Core\bin\Debug\Database.Core.dll
+E:\Study\Practise\AKSAHY_FRAMEWORK_OWN_14_DEC_2017\Database.Core\bin\Debug\Database.Core.pdb
+E:\Study\Practise\AKSAHY_FRAMEWORK_OWN_14_DEC_2017\Database.Core\obj\Debug\Database.Core.csprojResolveAssemblyReference.cache
+E:\Study\Practise\AKSAHY_FRAMEWORK_OWN_14_DEC_2017\Database.Core\obj\Debug\Database.Core.dll
+E:\Study\Practise\AKSAHY_FRAMEWORK_OWN_14_DEC_2017\Database.Core\obj\Debug\Database.Core.pdb
+E:\Study\Practise\AKSAHY_FRAMEWORK_OWN_14_DEC_2017\Database.Core\obj\Debug\Database.Core.csproj.CoreCompileInputs.cache
+E:\Study\Practise\Framework\Database.Core\obj\Debug\Database.Core.csprojResolveAssemblyReference.cache
+E:\Study\Practise\Framework\Database.Core\obj\Debug\Database.Core.csproj.CoreCompileInputs.cache
+E:\Study\Practise\Framework\Database.Core\obj\Debug\Database.Core.dll
+E:\Study\Practise\Framework\Database.Core\obj\Debug\Database.Core.pdb
+E:\Study\Practise\Framework\Database.Core\bin\Debug\Database.Core.dll
+E:\Study\Practise\Framework\Database.Core\bin\Debug\Database.Core.pdb
