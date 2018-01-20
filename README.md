@@ -40,3 +40,4 @@ This framework will automate code for insert/update/delete/read and various othe
      -  public IEnumerable<MyType> ExcuteReaderWithSP(string storeProcName)
      -  public List<Dictionary<string, object>> ExcuteReaderWithSPDyanamicList(string storeProcName)
      -  public Dictionary<string, object> ExcuteReaderWithSPDyanamicObject(string storeProcName)
+     
