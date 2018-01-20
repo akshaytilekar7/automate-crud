@@ -23,15 +23,15 @@ This framework will automate code for insert/update/delete/read and various othe
  # Use BaseEntity as below :
  -   BaseEntity<Student> baseEntity = new BaseEntity<Student>(ManageConnection.ConnectionString);
  
- # About BaseEntity :
  
- -  BaseEntity has following Methoods 
+ # BaseEntity CRUD methods
      -  public BaseEntity(string connectionString)
      -  public int InsertEntity(Entity entity)
      -  public int UpdateEntity(Entity entity)
      -  public int DeleteEntity(int id)
      -  public MyType GetEntity(int id)
      -  public IEnumerable<MyType> GetAllEntities()
+ # BaseEntity others methods
      -  public int ExecNonQuery(string query)
      -  public IEnumerable<MyType> ExcuteReader(string query)
      -  public object ExecScalar(string query)
