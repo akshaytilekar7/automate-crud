@@ -1,4 +1,4 @@
-# automate-crud
+# generic-crud-framework
 
 Custom .NET framework 
 
